@@ -10,7 +10,7 @@
 Summary:	Plasma Mobile desktop configuration
 Name:		distro-release-desktop-Plasma-Mobile
 Version:	23.90
-Release:	1.1
+Release:	1.2
 URL:		https://github.com/OpenMandrivaSoftware/distro-release
 Source0:	https://github.com/OpenMandrivaSoftware/distro-release/archive/%{version}/distro-release-%{version}.tar.gz
 BuildArch:	noarch
